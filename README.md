@@ -1,0 +1,2 @@
+# bbgame-scripts
+bitburner scripts
